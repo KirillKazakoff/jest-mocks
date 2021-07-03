@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/1bp1526mgqa6p3iw/branch/master?svg=true)](https://ci.appveyor.com/project/KirillKazakoff/matchers/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/jwyclptu0o4am70d/branch/master?svg=true)](https://ci.appveyor.com/project/KirillKazakoff/mock/branch/master)
